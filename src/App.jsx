@@ -5,6 +5,7 @@ import instalogo from "/src/img/instagram.svg";
 import figmalogo from "/src/img/figma.svg";
 import location from "/src/img/location.svg";
 import linkedinlogo from "/src/img/linkedin.svg";
+import touchdown from "/public/img/touchdown.png";
 import Experience from "./components/Experience.jsx";
 import Project from "./components/Project.jsx";
 import Footer from "./components/Footer.jsx";
@@ -13,15 +14,12 @@ function App() {
   return (
     <>
       <section className="h-screen w-[80%] flex mx-auto items-center">
-        <div className="h-auto flex flex-row sm:flex-col-reverse space-x-10 sm:space-x-0 ">
-          <div className="flex flex-col justify-center space-y-5 text-base">
+        <div className="h-auto flex flex-row sm:flex-col-reverse space-x-10 sm:space-x-0">
+          <div className="flex flex-col justify-center space-y-5 text-base w-full">
             {/* TODO 1: Edit the content of these tags!*/}
-            <h1>Hi! I'm ______</h1>
+            <h1>Hi! I'm Dora</h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Vestibulum ac ante eget arcu ultrices eleifend. Curabitur
-              tincidunt, quam non consequat cursus, nibh velit ultricies lorem,
-              et accumsan augue justo a diam.
+              i love wicc
             </p>
             <div className="flex flex-row items-center space-x-2">
               <img src={location} />
@@ -34,7 +32,7 @@ function App() {
 
             {/* TODO 2: Change the links of these tags to link to your socials! */}
             <div className="flex flex-row h-10 space-x-2">
-              <a href="">
+              <a href="https://github.com/dorawengg">
                 <img src={githublogo} />
               </a>
               <a href="">
@@ -51,7 +49,7 @@ function App() {
           <div className="flex justify-center ">
             {/* TODO 3: Change this to a custom image! */}
             <img
-              src={wicclogo}
+              src={touchdown}
               alt="WICC Logo"
               className="object-contain sm:p-10"
             />
