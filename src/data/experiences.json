@@ -1,32 +1,54 @@
 [
   {
-    "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "logo": "/img/cornell_webdev_logo.png",
+    "role": "Co-President",
+    "time": "Jan 2024 - Present",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Develop Big Red Beauty, an on-campus website directory listing beauty services offered by Cornell students to the student body using HTML and CSS to implement Figma designs.",
+      "Collaborate with co-presidents to organize weekly general meetings and plan social and professional events.",
+      "Coordinate and design web development workshops through collaboration with members and other organizations.",
+      "Oversee management of member projects by creating timelines and delegating tasks to project coordinators."
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "logo": "/img/Boat_Square_White.png",
+    "role": "Business & Operations Subteam Member",
+    "time": "Feb 2024 - Present",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Completed onboarding task of updating the Our Team page of the website using HTML/CSS and Github.",
+      "Began transferring website to React to improve website capabilities while collaborating using Github. ",
+      "Filmed informative marketing videos to promote the team ahead of Cornell Giving Day to maximize donations.",
+      "Utilized Figma to aid in redesigning website pages to enhance creative elements to improve user experience."
     ]
   },
   {
-    "logo": "/img/wicc_logo.png",
-    "role": "Developer",
-    "time": "2023 - Present",
+    "logo": "/img/aerie_aeoinc_logo.png",
+    "role": "Sales Associate",
+    "time": "Mar 2023 - Dec 2023",
     "bullet points": [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Ut pretium arcu et massa semper, id fringilla leo semper.",
-      "Sed quis justo ac magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+      "Collaborated with coworkers to expedite customer shopping experience to maintain a conversion rate of 30%.",
+      "Aided customers by maintaining organization and facilitating in finding specific sizes and colors of items.",
+      "Honed marketing skills by using knowledge of frequent purchases, current promotions, and customer motivations."
+    ]
+  },
+  {
+    "logo": "/img/cornell_logo.png",
+    "role": "Undergraduate Researcher",
+    "time": "Sep 2023 - Dec 2023",
+    "bullet points": [
+      "Researched applied queueing methods with group members to optimize Ithaca Transportation (TCAT) wait times.",
+      "Prepared deliverables and presentations for research advisor Prof. David Goldberg and distributed tasks weekly. ",
+      "Developed basic Python simulation for the Ithaca TCAT incorporating data from Cornell Open Data Initiative"
+    ]
+  },
+  {
+    "logo": "/img/brightech_logo.webp",
+    "role": "Summer Intern",
+    "time": "Jul 2022 - Aug 2022",
+    "bullet points": [
+      "Learned basic Statistics Analysis System (SAS) syntax, macros, and formatting for onboarding to organize data.",
+      "Analyzed data using basic SAS to produce charts and tables for a Phase 2 clinical trial study of cancer medication.",
+      "Annotated manuals on clinical trial ethics and procedures while also learning standard workplace proceedings. "
     ]
   }
 ]

@@ -1,35 +1,26 @@
 [
   {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
+    "name": "Big Red Beauty",
+    "logo": "/img/bigredbeauty.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
     "link": "",
     "tools": [
-      "React",
+      "HTML",
+      "CSS",
       "Figma",
       "Git"
     ]
   },
   {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
+    "name": "Annie's Food Blog",
+    "logo": "/img/foodblog.png",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
     "link": "",
     "tools": [
       "React",
-      "Figma",
-      "Git"
-    ]
-  },
-  {
-    "name": "Project Name",
-    "logo": "/img/projectimg.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
-    "link": "",
-    "tools": [
-      "React",
-      "Figma",
-      "Git"
+      "Express",
+      "Javascript",
+      "Firebase"
     ]
   }
 ]
