@@ -2,7 +2,8 @@
   {
     "name": "Big Red Beauty",
     "logo": "/img/bigredbeauty.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "status": "In Progress",
+    "description": "Big Red Beauty is a beauty services listing directory for Cornell students! Our goal is to connect Cornell students who can perform beauty services like gel-x nails, haircuts, braiding, eyebrow threading, etc. to Cornell students looking for them. We want to make it easier for students on campus to access beauty services in terms of location and prices.",
     "link": "",
     "tools": [
       "HTML",
@@ -14,12 +15,13 @@
   {
     "name": "Annie's Food Blog",
     "logo": "/img/foodblog.png",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec urna ac tellus volutpat viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
+    "status": "In Progress",
+    "description": "Annie's Food Blog was my final project for INFO 1998: Trends in Web Development. I wanted to create a personal website where I could display, rate, and favorite various dishes I've consumed over the years. I wanted to make it almost like a digital scrapbook for my foodie experiences over the years.",
     "link": "",
     "tools": [
       "React",
       "Express",
-      "Javascript",
+      "Typescript",
       "Firebase"
     ]
   }

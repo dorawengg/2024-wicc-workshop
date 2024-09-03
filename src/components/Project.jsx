@@ -17,6 +17,7 @@ const Project = () => {
             />
             <div className="flex flex-col items-start space-y-3">
               <div className="font-semibold text-xl">{data.name}</div>
+              <div className="text-[#228B22]">{data.status}</div>
               <div>{data.description}</div>
               <div className="flex flex-row flex-wrap space-x-3 ">
                 {data["tools"].map((point, idx) => (
@@ -28,10 +29,9 @@ const Project = () => {
                   </div>
                 ))}
               </div>
-
               <a href="">
                 <img src={link} className="h-10" />
-              </a>
+              </a> 
             </div>
           </div>
         </div>

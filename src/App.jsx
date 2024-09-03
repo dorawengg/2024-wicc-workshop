@@ -34,7 +34,7 @@ function App() {
             <img
               src={profileimg}
               alt="Annie Chen Profile Picture"
-              className="object-contain sm:p-10 w-[80%]"
+              className="object-contain sm:p-10 sm:w-[100%] w-[80%]"
             />
           </div> 
         </div>
