@@ -1,6 +1,5 @@
 import githublogo from "/src/img/github.svg";
 import instalogo from "/src/img/instagram.svg";
-import figmalogo from "/src/img/figma.svg";
 import linkedinlogo from "/src/img/linkedin.svg";
 const Header = () => {
     return (
@@ -14,9 +13,6 @@ const Header = () => {
               </a>
               <a href="https://www.instagram.com/_anniec0912_/">
                 <img src={instalogo} />
-              </a>
-              <a href="https://www.figma.com/files/team/1295077482462729641">
-                <img src={figmalogo} />
               </a>
               <a href="https://www.linkedin.com/in/annie-chen09">
                 <img src={linkedinlogo} />
