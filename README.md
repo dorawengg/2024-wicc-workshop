@@ -12,6 +12,7 @@
 ## Introduction
 
 This is a personal website/portfolio template used for the WICC 2024 workshop. It's built with [React](https://reactjs.org).
+To follow through the example, here is the slides: https://www.canva.com/design/DAF8hU15HbE/YhC27j4kH_pxl13Y4IbnMA/view?utm_content=DAF8hU15HbE&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 You can view the Figma file of this template [here](https://www.figma.com/file/uTyUhNtDpYuW5mKwm6eT2S/Workshop-Template?type=design&mode=design&t=tMpD9KjtmPxIvPP1-1).
 
